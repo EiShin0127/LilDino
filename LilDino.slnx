@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="LilDino/LilDino.vcxproj" />
+  <Project Path="LilDino/LilDino.vcxproj" Id="116a2ad6-c4c0-42e1-b6e1-f20509b52c01" />
 </Solution>
