@@ -32,12 +32,14 @@
 
 ##  安裝與執行說明
 
-### 1. 環境需求
-* 程式語言：[例如：Python 3.8 或以上版本]
-* 必備套件：[例如：pygame]
+---
+##  程式畫面截圖
 
-### 2. 安裝步驟
-請在終端機 (Terminal) 執行以下指令來安裝所需的依賴套件：
-```bash
-# 範例 (請根據實際使用的語言修改)
-pip install -r requirements.txt
+ ![Program screen](https://cdn.phototourl.com/free/2026-06-07-19219025-8c5a-47f2-ab25-a523b40705bb.png)  
+
+
+---
+##  分工資訊
+* **張睿晉：**
+* **陳侑霆：**
+
